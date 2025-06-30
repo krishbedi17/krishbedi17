@@ -3,9 +3,7 @@
 </a>
 
 
-<div>
-    <img src="./assets/terminalGif.gif" alt="About Me Terminal GIF"/>
-</div>
+
 
 
 
@@ -26,6 +24,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishbedi17/krishbedi17/output/pacman-contribution-graph.svg">
 </picture>
 
+
+<div>
+    <img src="./assets/terminalGif.gif" alt="About Me Terminal GIF"/>
+</div>
 ###
 
 <div align="left">
