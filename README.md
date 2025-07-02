@@ -7,7 +7,8 @@
 
 
 
-<h3 align="left">Hi👋! My name is Krish Bedi and I'm a Software Developer from Canada.</h3>
+<h3 align="left">🔧 I'm a Computer Science undergraduate at Simon Fraser University (SFU) with a passion for solving real-world problems with code, automating workflows, and exploring cloud infrastructure.
+</h3>
 
 <div align="left">
 <h3 align="left">Languages and tools:</h3>
