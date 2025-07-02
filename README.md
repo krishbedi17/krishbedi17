@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Krish+Bedi;Software+Engineer+%7C+Cloud+Enthusiast+%7C+System+Builder;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Krish+Bedi;Software+Engineer+%7C+Cloud+Enthusiast+%7C+System+Builder;Always+Learning%2C+Always+Building" alt="Typing SVG" align="center" />
 </a>
 
 
@@ -7,7 +7,7 @@
 
 
 
-<h3 align="left">🔧 I'm a Computer Science undergraduate at Simon Fraser University (SFU) with a passion for solving real-world problems with code, automating workflows, and exploring cloud infrastructure.
+<h4 align="left">🔧 I'm a Computer Science undergraduate at Simon Fraser University (SFU) with a passion for solving real-world problems with code, automating workflows, and exploring cloud infrastructure.
 </h3>
 
 <div align="left">
