@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Krish+Bedi;Software+Engineer+%7C+Cloud+Enthusiast+%7C+System+Builder;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
@@ -11,7 +11,6 @@
 🔧 I'm a Computer Science undergraduate at **Simon Fraser University (SFU)** with a passion for solving real-world problems with code, automating workflows, and exploring cloud infrastructure.  
 💻 I enjoy building scalable full-stack applications and streamlining dev workflows with CI/CD and cloud services.
 
----
 
 ## 🧰 Languages and Tools
 
@@ -38,8 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
 </div>
-
----
 
 ## 📊 GitHub Stats and Activity
 
