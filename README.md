@@ -1,7 +1,4 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header%22%20alt=%22header%22" alt="header"/>
-
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Krish+Bedi;Software+Engineer+%7C+Cloud+Enthusiast+%7C+System+Builder;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
