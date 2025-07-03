@@ -1,9 +1,9 @@
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Krish+Bedi;Software+Engineer+%7C+Cloud+Enthusiast+%7C+System+Builder;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 </div>
-
+---
 
 ## 🚀 About Me
 
